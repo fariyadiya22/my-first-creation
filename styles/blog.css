@@ -1,0 +1,7 @@
+h3{
+    background-image: url('colorfull.png');
+}
+p{
+    box-shadow: 10px 10px 15px rgb(105, 109, 116);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
